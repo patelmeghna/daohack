@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="191.625" height="46.397" viewBox="0 0 191.625 46.397">
+  <g id="Group_12674" data-name="Group 12674" transform="translate(0 0)">
+    <g id="Group_12654" data-name="Group 12654" transform="translate(0 0)">
+      <path id="Path_7116" data-name="Path 7116" d="M20.09,0,30.135,5.8l10.045,5.8V34.8L30.135,40.6,20.09,46.4,10.045,40.6,0,34.8V11.6L10.045,5.8Z" transform="translate(0 0)" fill="#f85e11" fill-rule="evenodd"/>
+      <path id="Path_7117" data-name="Path 7117" d="M1152.2,1443.592V1438.5l-3.142-3.143v8.232a8.027,8.027,0,1,0,16.054,0v-6.661a1.571,1.571,0,1,0-3.142,0v6.661a4.885,4.885,0,0,1-9.769,0Z" transform="translate(-1136.997 -1420.291)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+    <text id="USDAO" transform="translate(63.625 34.548)" fill="#fff" font-size="37" font-family="WorkSans-Bold, Work Sans" font-weight="700"><tspan x="0" y="0">USDAO</tspan></text>
+  </g>
+</svg>
