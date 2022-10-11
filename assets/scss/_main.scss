@@ -53,7 +53,7 @@ li {
     background: $gray-200;
     position: absolute;
     top: 0;
-    z-index: 99;
+    z-index: 9999;
     width: 100%;
 }
 
@@ -532,7 +532,7 @@ li {
 }
 
 .nav-text {
-    padding: 40px;
+    padding: 37px 40px;
     font-size: 25px;
     color: #fff !important; 
     font-family: behanschrift;
@@ -546,4 +546,5 @@ li {
     position: fixed;
     width: 100%;
     top: 0;
+    z-index: 9998;
 }
